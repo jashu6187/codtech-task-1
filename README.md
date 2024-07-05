@@ -16,4 +16,5 @@ A digital logic design is a system that uses simple values to produce functions,
 ![](https://github.com/jashu6187/codtech-task-1/blob/main/Screenshot%202024-07-03%20185739.png)
 ![](https://github.com/jashu6187/codtech-task-1/blob/main/Screenshot%202024-07-03%20190329.png)
 ![](https://github.com/jashu6187/codtech-task-1/blob/main/Screenshot%202024-07-03%20190453.png)
-
+![](https://github.com/jashu6187/codtech-task-1/blob/main/Screenshot%202024-07-05%20171505.png)
+![](https://github.com/jashu6187/codtech-task-1/blob/main/Screenshot%202024-07-05%20172104.png)
