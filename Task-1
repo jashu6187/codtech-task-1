@@ -1,0 +1,20 @@
+/**/logic gates
+module and_gate(input a, input b, output y);
+  assign y = a & b;
+endmodule
+
+module or_gate(input a, input b, output y);
+  assign y = a | b;
+endmodule
+
+module not_gate(input a, output y);
+  assign y = ~a;
+endmodule
+/**/adders
+module full_adder(input a, input b, input cin, output sum, output cout);
+  assign {cout, sum} = a + b + cin;
+endmodule
+/**/multiplers
+module mux_2to1(input [1:0] data, input sel, output y);
+  assign y = (sel) ? data[1] : data[0];
+endmodule
