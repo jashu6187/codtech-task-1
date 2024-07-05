@@ -11,4 +11,9 @@ Verilog within the VLSI software.
 
 objective:
 A digital logic design is a system that uses simple values to produce functions, perform operations and define the input and output of any digital circuit. It is mostly used in electrical and computer engineering to develop the basic circuitry for electronic devices, microprocessors, and hardware.
-![]()
+![](https://github.com/jashu6187/codtech-task-1/blob/main/Screenshot%202024-07-03%20183940.png)
+![](https://github.com/jashu6187/codtech-task-1/blob/main/Screenshot%202024-07-03%20185653.png)
+![](https://github.com/jashu6187/codtech-task-1/blob/main/Screenshot%202024-07-03%20185739.png)
+![](https://github.com/jashu6187/codtech-task-1/blob/main/Screenshot%202024-07-03%20190329.png)
+![](https://github.com/jashu6187/codtech-task-1/blob/main/Screenshot%202024-07-03%20190453.png)
+
